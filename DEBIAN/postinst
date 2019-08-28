@@ -1,0 +1,10 @@
+#!/bin/bash
+/usr/bin/create-desktop-launcher-fingerprint.sh
+#cp /usr/share/applications/Register-Employee-Finger.desktop ~/Desktop/
+
+echo "."
+echo "."
+echo "."
+echo "=============================="
+echo "Install Fingerprint Success..!"
+echo "=============================="

@@ -1,0 +1,10 @@
+#!/bin/bash
+rm /usr/share/applications/Register-Employee-Finger.desktop
+#rm ~/Desktop/Register-Employee-Finger.desktop
+
+echo "."
+echo "."
+echo "."
+echo "================================"
+echo "Uninstall Fingerprint Success..!"
+echo "================================"

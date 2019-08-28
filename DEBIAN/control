@@ -1,0 +1,11 @@
+Package: fingerprint
+Version: 1.1
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-size: 1024
+Maintainer: Takeru T.K.
+Description: Register Employee Finger
+Homepage: https://takeruadelbert.github.io/
+Depends: openjdk-8-jre-headless|openjdk-8-jre|openjdk-8-jdk-headless|openjdk-8-jdk, gksu
